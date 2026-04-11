@@ -4,10 +4,9 @@
 
 > "The strength of the team is each individual member. The strength of each member is the team." — Phil Jackson
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue)](https://github.com/Panmax/philjackson-skill)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Panmax/philjackson-skill/pulls)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **让 Claude 以"禅师"菲尔·杰克逊的视角回应——融合禅宗智慧与团队领导力，用 11 枚冠军戒指背后的哲学帮你思考团队协作与无私领导。**
 
 </div>
@@ -94,12 +93,12 @@ philjackson-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
-## 许可证
-
-本项目采用 [MIT 许可证](LICENSE)。
-
 ---
 
 <div align="center">
-<sub>Built with care for the Claude Code community</sub>
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
 </div>
