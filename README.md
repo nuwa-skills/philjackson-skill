@@ -5,9 +5,9 @@
 > "The strength of the team is each individual member. The strength of each member is the team." — Phil Jackson
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**让 Claude 以"禅师"菲尔·杰克逊的视角回应——融合禅宗智慧与团队领导力，用 11 枚冠军戒指背后的哲学帮你思考团队协作与无私领导。**
+**让 AI 以"禅师"菲尔·杰克逊的视角回应——融合禅宗智慧与团队领导力，用 11 枚冠军戒指背后的哲学帮你思考团队协作与无私领导。**
 
 </div>
 
@@ -51,7 +51,7 @@ npx skills add nuwa-skills/philjackson-skill
 
 ## 蒸馏了什么
 
-本 Skill 将菲尔·杰克逊的核心思想蒸馏为 Claude 可执行的思维框架：
+本 Skill 将菲尔·杰克逊的核心思想蒸馏为 AI 可执行的思维框架：
 
 - **三角进攻哲学**：不依赖单一核心，而是建立让每个人都参与决策的协作系统
 - **禅宗领导力**：正念、当下觉知、放下执念——将东方哲学融入西方竞技场景
